@@ -20,6 +20,7 @@ Tener configurado o instalado en forma nativa o virtual en la plataforma del cod
 
 ## Instalacion y configuracion
 ### Paso 1 .- Instalar laravel y la aplicacion web
+`git clone https://github.com/ivanchenoweth/dnc`
 `composer install --ignore-platform-req=ext-gd --ignore-platform-req=ext-fileinfo`
 ### Paso 2 .- Configuracion con el DBMS:
  copiar el archivo '.env.example' como '.env'
