@@ -1,6 +1,8 @@
-# Formato de Nececidades de Capacitacion (DNC) para el Centro de Capacitación CECAP
+# Formato FLOSS de Nececidades de Capacitacion (DNC) para el Centro de Capacitación CECAP
 
-## Proyecto Publico para elaborar un cuestionario para las necesidades de capacitaci+on del Personal
+> Proyecto Publico para elaborar un cuestionario para las necesidades de capacitar al Personal
+
+> Puede ser aplicado para cualquier empresa privada o publica
 
 ## Requisitos :
 
