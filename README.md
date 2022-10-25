@@ -2,6 +2,8 @@
 
 > Proyecto Publico para elaborar un cuestionario para las necesidades de capacitar al Personal
 
+> DNC - Con el propósito  de elaborar el programa ANUAL de capacitación 2022 para el personal que forma parte de la Administración Pública Estatal y buscando ofrecer nuestro servicio lo más cercano a tus necesidades de capacitación y actualización, te solicitamos completes la información que te permita mejorar tu desempeño en el puesto que actualmente desempeñan.
+
 > Puede ser aplicado para cualquier empresa privada o publica
 
 ## Requisitos :
